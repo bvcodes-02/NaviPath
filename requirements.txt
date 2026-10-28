@@ -1,0 +1,8 @@
+streamlit>=1.50
+streamlit-folium>=0.22
+folium>=0.17
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+altair>=5.0
+global-land-mask>=1.0
